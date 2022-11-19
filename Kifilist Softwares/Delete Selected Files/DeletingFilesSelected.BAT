@@ -1,0 +1,2 @@
+del insertfile
+y

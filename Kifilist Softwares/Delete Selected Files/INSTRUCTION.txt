@@ -1,0 +1,5 @@
+Hello. Thanks for selecting my programm. This program script is simple. So just to setting what you want to delete to this things:
+
+1. Right click, "Show more options" and select "Edit".
+2. Change "insertfile" to file what you want delete.
+3. Enjoy! Just click that ".BAT" file again and BOOM! File that just send trash to memory are deleted! But also dont forget to save!
