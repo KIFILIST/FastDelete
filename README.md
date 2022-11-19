@@ -1,7 +1,6 @@
 # FastDelete
-This is not so important part. More in INSTRUCTIONS but i say somethings here.
+FAST DELETE - The AUTODELETE malware THAT are SPECIALLY for YOU on WINDOWS BATCH type!
 
-This malware is not a original idea or something. Just i really want to post here something.
-This malware may be copyed. If something like. I so sorry for original creator!
+WARN! This malware may be copyed. Iam sorry for origin creator.
 
-Thank you, Kifiilist (The Creator of Malware)
+This malware is simple. A little script that does ANYTHING! oh my gosh.
