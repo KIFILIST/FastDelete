@@ -3,4 +3,5 @@ FAST DELETE - The AUTODELETE malware THAT are SPECIALLY for YOU on WINDOWS BATCH
 
 WARN! This malware may be copyed. Iam sorry for origin creator.
 
-This malware is simple. A little script that does ANYTHING! oh my gosh.
+VERSION 2.0!
+ I say what's new in "2.0.txt" file!
