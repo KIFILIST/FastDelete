@@ -1,0 +1,11 @@
+INFO:
+I notice that this program is deleting only folders on files.
+
+IF YOU WANT DELETE FOLDER
+that malware is only cleanup folders.
+
+IF YOU WANT DELTE FILE
+this is without issues.
+
+ ----------------- 1.0 ISSUE -------------------------
+-The malware cannot find file. To fix that, just write "cd" on start of ".BAT" file.

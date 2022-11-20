@@ -1,4 +1,4 @@
-Hello. Thanks for selecting my programm. This program script is simple. So just to setting what you want to delete to this things:
+Hello. Thanks for selecting my program. This program script is simple. So just to setting what you want to delete to this things:
 
 1. Right click, "Show more options" and select "Edit".
 2. Change "insertfile" to file what you want delete.
